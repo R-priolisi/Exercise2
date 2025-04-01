@@ -1,3 +1,3 @@
 # Ignora la cartella build
 build/
-!build/output.txt
+
